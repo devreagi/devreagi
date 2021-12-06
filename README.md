@@ -3,7 +3,7 @@
 
 - 🎯 I am currently focusing on improving my **Development Skills**
 
-- 🌱 I’m currently learning **SpringBoot 2**
+- 🌱 I’m currently learning **Data Structures and Algorithms**
 
 - 📫 How to reach me **ivan.reyesa@outlook.com**
 
